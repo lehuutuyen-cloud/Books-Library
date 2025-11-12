@@ -1,0 +1,44 @@
+TITLE: $100M Money Models - Chương 3.2 - Menu Upsell
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Upsell Offers, menu upsell, offer strategy
+---
+
+## 🧠 Core Mindsets
+* **Bán hàng dễ dàng:** Bán hàng dễ dàng hơn khi bạn loại bỏ tùy chọn "không mua" khỏi cuộc trò chuyện.
+* **Quyền lực của sự kê đơn:** Hướng dẫn chi tiết và cá nhân hóa về cách sử dụng sản phẩm sẽ chuyển đổi khách hàng tốt hơn nhiều so với các đề xuất mơ hồ.
+* **Tạo điều kiện trả tiền:** Nếu bạn làm cho việc trả tiền trở nên dễ dàng, nhiều người sẽ mua hơn.
+* **Lợi ích của Unselling:** Việc loại bỏ những thứ khách hàng không cần sẽ xây dựng thiện chí, làm nổi bật giá trị của những thứ họ cần, và giúp nhân viên cảm thấy đang "giúp khách hàng" tối ưu hóa.
+
+## 💡 Counter-intuitive Views
+* **Unselling là Upselling:** Chủ động *gạch bỏ* những sản phẩm/tính năng khách hàng không cần sẽ xây dựng đủ thiện chí để Upsell những thứ họ cần. Alex thậm chí còn giữ lại sản phẩm chỉ để gạch bỏ chúng.
+* **Tỷ lệ chuyển đổi A/B:** Việc hỏi "Bạn thích A hay B?" (chuyển đổi 100% sang bán hàng) hiệu quả hơn việc hỏi "Bạn có muốn sản phẩm không?" (có thể là 50% "Có" / 50% "Không").
+* **Bán khi hết hàng:** Bạn vẫn có thể bán sản phẩm khi hết hàng bằng cách lấy thanh toán, lên đơn hàng và đặt kỳ vọng về thời gian giao hàng.
+* **Chiến lược "The Economist" (Giá mồi nhử):** Để bán gói cao cấp (Bundle) với lợi nhuận cao, hãy giới thiệu 3 tùy chọn trong đó tùy chọn thứ 3 (Gói cao cấp/Bundle) có giá *tương đương* tùy chọn thứ 2 (Gói đơn lẻ đắt tiền), khiến gói Bundle trở thành món hời không thể chối từ.
+
+## 🎣 Hooks & Angles
+* "Bạn không cần cái đó... bạn cần cái này." (You don't need that... you need this).
+* "Bạn có muốn dùng thẻ đã lưu trong hồ sơ không?" (Wanna just use the card on file?).
+* "Chơi Chiến lược 'The Economist'".
+
+## 🛠️ Frameworks & Strategies
+* **Bộ tứ Menu Upsell (4 Tactic):**
+    1. **Unselling (Bán ngược):** Loại bỏ những gì khách hàng không cần để tập trung vào những gì họ cần (ví dụ: gạch bỏ lắc tăng cân khi khách muốn giảm cân).
+    2. **Prescription Upsell (Kê đơn):** *Hướng dẫn* chi tiết cách sử dụng sản phẩm (thay vì hỏi mua hay không) như thể họ đã sở hữu nó (ví dụ: "Uống cái này lúc đêm. Uống hai cái này sau bữa trưa.").
+    3. **A/B Upsell:** Hỏi về sự ưu tiên giữa hai lựa chọn (ví dụ: "Chocolate hay Vanilla?", "Sáng hay Chiều?", "Thứ 3 hay Thứ 6?") — Cả hai đều dẫn đến một Upsell.
+    4. **Card On File (Thẻ đã lưu):** Hỏi "Bạn có muốn dùng thẻ đã lưu trong hồ sơ không?" để loại bỏ rào cản thanh toán cuối cùng ("hidden costs").
+* **Chiến lược Nudging (Đẩy nhẹ):** Khi sử dụng A/B Upsell, hãy thêm một câu đẩy nhẹ: "Cái này là món yêu thích của tôi" hoặc "Hầu hết mọi người đều thích cái này" để giúp khách hàng mới dễ dàng đưa ra lựa chọn.
+* **The "Economist" Play:**
+    * Nếu có 2 sản phẩm (A \$10, B \$20).
+    * Thêm tùy chọn C (chỉ có B) với giá \$20.
+    * Đưa ra tùy chọn D (A+B) với giá \$20.
+    * Khách hàng sẽ thấy D (A+B) là một món hời so với C (chỉ B) và sẽ chọn gói trọn bộ.
+
+## 💬 Golden Quotes
+* > "Tôi gạch bỏ những gì cô ấy không cần. Và điều này xây dựng đủ thiện chí để bán thêm những gì cô ấy cần."
+* > "Họ yêu thích điều đó và mua mà không ngần ngại."
+* > "Tôi chỉ hỏi, 'Bạn thích sô cô la hay vani?'... và cô ấy đã bảo tôi!"
+* > "Nếu bạn làm cho việc mua hàng dễ dàng, nhiều người sẽ mua hơn."
