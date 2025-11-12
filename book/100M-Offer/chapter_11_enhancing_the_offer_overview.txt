@@ -1,0 +1,50 @@
+TITLE: $100M Offers - Chương 11 - Nâng cao Chào hàng: Sự khan hiếm, Khẩn cấp, Tiền thưởng, Đảm bảo, và Đặt tên (Enhancing The Offer: Scarcity, Urgency, Bonuses, Guarantees, and Naming)
+BOOK: $100M Offers
+AUTHOR: Alex Hormozi
+URL: [Chưa có]
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-12
+TAGS: Alex Hormozi, Offers, Marketing, Scarcity, Urgency, Bonuses, Guarantees, Naming, booknote, $100M Offers
+---
+
+## 🧠 Core Mindsets
+* Marketing về cơ bản là việc tác động đến đường cong Cung và Cầu. Sự kết hợp lợi nhuận hoàn hảo là *nhu cầu cao* và *nguồn cung (cảm nhận) thấp*.
+* Con người muốn thứ họ không thể có. Con người muốn thứ người khác muốn. Con người muốn thứ chỉ một số ít người được chọn mới có thể tiếp cận.
+* "Khao khát" (Desire) đến từ việc *không* có được thứ bạn muốn. Ngay khi bạn có nó, khao khát sẽ biến mất.
+* Để duy trì khao khát, bạn phải bán *ít hơn* số lượng mà bạn có thể bán.
+
+## 💡 Counter-intuitive Views
+* **"Khi nhu cầu tăng, hãy cắt giảm nguồn cung"**. Đây là lời khuyên phản trực giác mà George (nhà tài trợ lớn) đã đưa ra. Cắt giảm số lượng vé mời (cung) và tăng giá đã giúp họ kiếm thêm 1 triệu đô la *trước khi* sự kiện bắt đầu.
+* Bạn có thể kiếm được nhiều tiền hơn bằng cách bán *ít* sản phẩm hơn với giá *cao hơn*.
+* Thỏa mãn *toàn bộ* nhu cầu trên thị trường là một sai lầm chiến lược. Nó giết chết "con ngỗng vàng" của bạn, đó chính là "nhu cầu bị dồn nén" (pent-up demand).
+* Nhu cầu không tuyến tính; nó tuân theo quy luật 80/20 (fractal). Sẽ luôn có 1/5 số khách hàng tiềm năng sẵn sàng trả giá cao gấp 5 lần (hoặc hơn).
+
+## 🎣 Hooks & Angles
+* "Khi nhu cầu tăng, hãy cắt giảm nguồn cung."
+* "Vũ điệu Tinh tế của Khao khát" (The Delicate Dance of Desire).
+* "Quy luật Hormozi: Bạn trì hoãn lời đề nghị càng lâu, bạn càng có thể đưa ra lời đề nghị lớn hơn."
+* "Đường băng càng dài, máy bay cất cánh càng lớn."
+* Làm thế nào để bán một món hàng với giá 100.000 đô la mà ở nơi khác không thể bán được với giá 10.000 đô la? (Ví dụ về buổi đấu giá từ thiện).
+* Chúng ta muốn một khách hàng "đói khát" (ravenous), chứ không chỉ là một người "bị kích thích" (aroused).
+
+## 🛠️ Frameworks & Strategies
+* **Kim tự tháp Nhu cầu (Fractal Demand Pyramid):**
+    * Thay vì bán cho tất cả 10 người ở đáy kim tự tháp với giá 500 đô la (Tổng: 5.000 đô la).
+    * Hãy chỉ bán cho 2 người ở đỉnh với giá 5.000 đô la (Tổng: 10.000 đô la).
+* **Chiến lược "Hớt váng" (Skim the Top):**
+    * **Kết quả:** 1) Bạn kiếm được nhiều tiền hơn (10k so với 5k); 2) Chi phí thấp hơn (lợi nhuận cao hơn); 3) Bạn tạo ra "nhu cầu bị dồn nén" (pent-up demand) từ 8 người không mua được, khiến họ khao khát hơn cho lần mở bán tiếp theo.
+* **5 Công cụ Nâng cao Chào hàng (Giới thiệu Phần IV):**
+    1.  **Sự khan hiếm (Scarcity):** Giảm nguồn cung để tăng giá và sự độc quyền.
+    2.  **Sự khẩn cấp (Urgency):** Giảm ngưỡng hành động (giới hạn thời gian).
+    3.  **Tiền thưởng (Bonuses):** Tăng nhu cầu (bằng cách tăng giá trị cảm nhận).
+    4.  **Đảm bảo (Guarantees):** Tăng nhu cầu (bằng cách đảo ngược rủi ro).
+    5.  **Đặt tên (Naming):** Tái kích thích nhu cầu và mở rộng nhận diện.
+
+## 💬 Golden Quotes
+* "Con người muốn thứ họ không thể có. Con người muốn thứ người khác muốn. Con người muốn thứ chỉ một số ít người được chọn mới có thể tiếp cận."
+* "Khi nhu cầu tăng, hãy cắt giảm nguồn cung."
+* "Khao khát là một hợp đồng bạn tự ký với chính mình để không hạnh phúc cho đến khi bạn có được thứ bạn muốn." - Naval Ravikant
+* "Chúng ta phải bán ít hơn số lượng mà chúng ta có thể bán."
+* "Quy luật Hormozi: Bạn trì hoãn lời đề nghị càng lâu, bạn càng có thể đưa ra lời đề nghị lớn hơn."
+* "Chúng ta phải nỗ lực giữ cho nguồn cung (và sự thỏa mãn khao khát) thấp hơn nhu cầu mà chúng ta có thể tạo ra."
+* "Chúng ta muốn một khách hàng 'đói khát' (ravenous), chứ không chỉ là một người 'bị kích thích' (aroused)."
