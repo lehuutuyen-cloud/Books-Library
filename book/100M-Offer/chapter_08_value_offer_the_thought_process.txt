@@ -1,0 +1,36 @@
+TITLE: $100M Offers - Chương 8 - Value Offer: The Thought Process (Chào hàng Giá trị: Quá trình Tư duy)
+BOOK: $100M Offers
+AUTHOR: Alex Hormozi
+URL: [Chưa có]
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-12
+TAGS: Alex Hormozi, Offers, Value, Marketing, Convergent Thinking, Divergent Thinking, booknote, $100M Offers
+---
+
+## 🧠 Core Mindsets
+* [cite_start]Trường học dạy chúng ta "Tư duy Hội tụ" (Convergent Thinking) - tức là lấy nhiều biến số đã biết để tìm ra *một* câu trả lời đúng duy nhất (giống như một bài toán) [cite: 1380-1381, 1394-1395].
+* [cite_start]Tuy nhiên, cuộc sống và kinh doanh trả tiền cho "Tư duy Phân kỳ" (Divergent Thinking) - tức là khả năng nghĩ ra *nhiều giải pháp* cho *một vấn đề duy nhất* [cite: 1396-1397].
+* Một lời chào hàng (offer) được tạo thành từ các "viên gạch" (building blocks). [cite_start]Nhiệm vụ của chúng ta là sử dụng tư duy phân kỳ để tìm ra càng nhiều cách kết hợp các viên gạch đó lại để cung cấp giá trị [cite: 1431-1432].
+
+## 💡 Counter-intuitive Views
+* Tư duy mà trường học rèn luyện cho bạn (hội tụ) không phải là tư duy giúp bạn thành công trong kinh doanh (phân kỳ).
+* Trong tư duy phân kỳ, có thể có nhiều câu trả lời đúng, và một số câu trả lời "đúng hơn" (more right) những câu trả lời khác. Việc tìm kiếm một câu trả lời "đúng" duy nhất sẽ giới hạn khả năng sáng tạo của bạn.
+
+## 🎣 Hooks & Angles
+* Tại sao trường học đang giết chết khả năng sáng tạo Chào hàng Vĩ đại của bạn?
+* Bài tập "Viên gạch": 120 giây để kích hoạt bộ não marketing của bạn.
+* Bạn đang suy nghĩ theo kiểu "hội tụ" hay "phân kỳ"? Hầu hết các doanh nhân đều sai lầm ở điểm này.
+
+## 🛠️ Frameworks & Strategies
+* **Phân biệt Tư duy Hội tụ vs. Phân kỳ:**
+    * **Tư duy Hội tụ (Convergent):** Nhiều biến số, điều kiện không đổi -> Một câu trả lời đúng. (Ví dụ: 3 nhân viên sale, mỗi người 100 cuộc gọi, 4 cuộc gọi 1 sale, cần 110 sale -> cần thuê thêm bao nhiêu người?) [cite_start][cite: 1383-1393].
+    * **Tư duy Phân kỳ (Divergent):** Một vấn đề -> Nhiều câu trả lời đúng. (Biến số có thể không xác định, điều kiện thay đổi).
+* [cite_start]**Bài tập "Viên gạch" (The Brick Exercise):** [cite: 1403-1407]
+    1.  Đặt hẹn giờ 120 giây.
+    2.  Nghĩ về một viên gạch.
+    3.  [cite_start]Viết ra càng nhiều công dụng của một viên gạch càng tốt (ví dụ: chặn giấy, chặn cửa, xây nhà, làm tạ, làm bệ kê, phá cửa sổ, v.v.) [cite: 1406, 1417-1430].
+    4.  Mục tiêu: Rèn luyện khả năng suy nghĩ phân kỳ (nghĩ ra nhiều giải pháp) để chuẩn bị cho việc xây dựng lời chào hàng.
+
+## 💬 Golden Quotes
+* [cite_start]"Chúng ta được dạy suốt đời ở trường để suy nghĩ theo cách này (hội tụ). Đó là bởi vì nó dễ chấm điểm." [cite: 1395]
+* [cite_start]"Nhưng cuộc sống sẽ trả tiền cho bạn vì khả năng giải quyết vấn đề bằng quy trình tư duy phân kỳ." [cite: 1396]
