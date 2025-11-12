@@ -1,0 +1,36 @@
+TITLE: $100M Money Models - Chương 3.5 - Upsell Offers Conclusion
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Upsell Offers, business psychology, loss aversion, offer strategy
+---
+
+## 🧠 Core Mindsets
+* **Vai trò của Upsell:** Bất cứ khi nào bạn chào hàng thứ gì tiếp theo, đó là Upsell.
+* **Mục tiêu tối cao:** Upsell đóng vai trò chủ chốt trong Money Model bằng cách giúp bạn thu được nhiều tiền mặt từ khách hàng *nhanh hơn*.
+* **Tài chính vững chắc:** Nếu Chào hàng Thu hút (Attraction Offer) đã đủ trang trải chi phí có khách hàng và chi phí giao hàng, thì việc có thêm tiền từ Upsell là một điều tốt.
+* **"Giải quyết vấn đề của người giàu":** Những vấn đề càng lớn và càng có giá trị (thường là vấn đề của những người có khả năng chi trả), họ càng trả tiền tốt hơn.
+
+## 💡 Counter-intuitive Views
+* **Biến Đốt tiền thành In tiền:** Upsell thay đổi mọi thứ, giúp nhiều doanh nghiệp chuyển từ việc đốt tiền sang in tiền chỉ sau một đêm.
+* **Thất bại là cơ hội:** Khi khách hàng nói "Không" với Upsell, đó không phải là kết thúc. Đó là bước dẫn đến thành phần tiếp theo của Money Model: Chào hàng Hạ cấp (Downsell Offers).
+
+## 🎣 Hooks & Angles
+* "Giải quyết vấn đề của người giàu, họ trả tiền tốt hơn." (Solve rich people problems, they pay better).
+* "Doanh nghiệp chuyển từ đốt tiền sang in tiền chỉ sau một đêm."
+
+## 🛠️ Frameworks & Strategies
+* **4 Chiến lược Upsell Cốt lõi:**
+    1. The Classic Upsell (Upsell Cổ điển).
+    2. Menu Upsells (Upsell theo Menu).
+    3. Anchor Upsells (Upsell Mỏ neo).
+    4. Rollover Upsells (Upsell Chuyển tiếp).
+* **Bước tiếp theo trong Money Model:** Sau khi tối đa hóa lợi nhuận với Upsell, bước tiếp theo là Downsell Offers (cách để bán hàng khi khách hàng nói "Không").
+
+## 💬 Golden Quotes
+* > "Giải quyết vấn đề của người giàu, họ trả tiền tốt hơn."
+* > "Upsell đóng vai trò chủ chốt trong Money Model bằng cách thu được nhiều tiền mặt từ khách hàng nhanh hơn."
+* > "Upsell thay đổi mọi thứ. Nhiều doanh nghiệp chuyển từ việc đốt tiền sang in tiền chỉ sau một đêm."
+* > "Điều này dẫn chúng ta đến thành phần tiếp theo của Mô hình Tiền tệ $100M — Chào hàng Hạ cấp (Downsell Offers): nên chào hàng gì khi họ nói không..."
