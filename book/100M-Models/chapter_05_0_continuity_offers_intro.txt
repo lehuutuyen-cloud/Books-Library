@@ -1,0 +1,37 @@
+TITLE: $100M Money Models - Chương 5 - Continuity Offers (Giới thiệu)
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Continuity Offers, recurring revenue, lifetime value
+---
+
+## 🧠 Core Mindsets
+* **Tư duy Cốt lõi:** "Bạn có thể xén lông cừu suốt đời, nhưng bạn chỉ có thể lột da nó một lần.". Tức là, hãy tìm kiếm dòng tiền liên tục thay vì chỉ một giao dịch lớn.
+* **Mục tiêu của Continuity:** Cung cấp giá trị liên tục mà khách hàng trả tiền liên tục cho đến khi họ hủy.
+* **Lợi ích kép:** Continuity Offers giúp bạn có được nhiều khách hàng hơn và kiếm được nhiều tiền hơn từ mỗi người trong số họ.
+* **Sự khác biệt:** Mọi chào hàng đều cần khiến khách hàng *mua*. Nhưng Continuity Offers cần khiến khách hàng *tiếp tục mua*.
+
+## 💡 Counter-intuitive Views
+* **Mặt trái của Continuity:** Dù Continuity có tiềm năng kiếm tiền lớn trong tương lai, việc sử dụng nó làm Chào hàng Thu hút ngay từ đầu sẽ khiến bạn **thiếu tiền mặt (cash-strapped) ngay hôm nay**.
+* **Thứ tự hoàn hảo:** Alex thích đặt Continuity Offers *cuối cùng* (sau Attraction, Upsell, Downsell) để đảm bảo có được tiền mặt ngay lập tức, sau đó mới chuyển sang tích lũy tiền mặt định kỳ.
+* **Khách hàng Upsell 4 lần:** Khi bạn chuyển từ bán một gói $1,000 sang gói $50/tháng, bạn có thể tăng số lượng khách hàng từ 10 lên 40 người. Điều này có nghĩa là bạn có *bốn lần* số lượng khách hàng để Upsell sau này.
+
+## 🎣 Hooks & Angles
+* "Bạn có thể xén lông cừu suốt đời, nhưng bạn chỉ có thể lột da nó một lần."
+* "Bán một lần, nhưng được trả tiền lặp đi lặp lại.".
+* "Tiền mặt hôm nay ít hơn, tiền mặt ngày mai nhiều hơn."
+
+## 🛠️ Frameworks & Strategies
+* **Khi nào nên dùng Continuity:** Nếu khách hàng nhận được giá trị liên tục (ongoing value), thì việc họ trả tiền liên tục là hợp lý.
+* **Khi nào không nên dùng Continuity:** Không nên dùng cho các dịch vụ một lần (one-day workshop). Trong trường hợp đó, nó là một kế hoạch thanh toán (payment plan).
+* **3 Mô hình Chào hàng Liên tục (Continuity Offers):**
+    1. Continuity: Bonus Offers (Chào hàng Thưởng Liên tục).
+    2. Continuity: Discount Offers (Chào hàng Giảm giá Liên tục).
+    3. Waived Fee Offer (Chào hàng Miễn phí Phí).
+
+## 💬 Golden Quotes
+* > "Bạn có thể xén lông cừu suốt đời, nhưng bạn chỉ có thể lột da nó một lần."
+* > "Continuity Offers rất tuyệt vời vì bạn bán một lần, nhưng được trả tiền lặp đi lặp lại."
+* > "Bằng cách đặt các lời chào hàng liên tục cuối cùng, chúng ta có được điều tốt nhất của mọi thế giới."
