@@ -1,0 +1,61 @@
+TITLE: Sell Like Crazy - PHASE 5 - Traffic
+BOOK: Sell Like Crazy
+AUTHOR: Sabri Suby
+URL: [Link sách/Nguồn]
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-12
+TAGS: Sabri Suby, marketing, traffic, unit economics, CPA, LTV, native ads, booknote, sell like crazy
+---
+
+## 🧠 Core Mindsets
+* Bạn phải hiểu rõ các chỉ số "Kinh tế học đơn vị" (Unit Economics) của mình, đặc biệt là CPA (Chi phí mỗi Khách hàng) và LTV (Giá trị Vòng đời).
+* Biết các chỉ số của bạn cho phép bạn mua traffic một cách "hung hăng" (aggressively) và phát triển nhanh hơn đối thủ.
+* Một doanh nghiệp không bao giờ nên dựa vào một nguồn traffic duy nhất.
+* Hầu hết mọi người không có vấn đề về traffic; họ có vấn đề về Lời chào hàng (Offer).
+* Thông điệp tiếp thị của bạn phải phù hợp với nhiệt độ của khán giả (Traffic Lạnh/Ấm/Nóng).
+* Tác vụ của quảng cáo (Ad) *không phải* là bán hàng. Tác vụ duy nhất của nó là **Bán cú click** (Sell the click).
+* Nhiệm vụ của copywriter không phải là tạo ra ham muốn, mà là điều hướng (channel and direct) ham muốn đang có sẵn.
+
+## 💡 Counter-intuitive Views
+* Suy nghĩ "Google Ads quá đắt" là sai lầm. Nếu LTV của bạn là $500, bạn có thể chi tới $499 CPA và vẫn có lãi. Vấn đề không phải là giá click, mà là bạn có biết các chỉ số của mình không.
+* Trên Facebook, hình ảnh quảng cáo của bạn *không* nên trông giống như một quảng cáo. Chúng nên trông giống như nội dung tự nhiên (tin tức, ảnh được chia sẻ) để có hiệu quả cao nhất.
+
+## 🎣 Hooks & Angles
+* 2% nhà quảng cáo nhận được 50% lưu lượng truy cập.
+* Phép ẩn dụ về Nhiệt độ Traffic: Tinder (Lạnh), Second Date (Ấm), Netflix and Chill (Nóng).
+* Quảng cáo "Checklist Bí mật" (Secret Checklist) đánh bại quảng cáo "Chuyên gia" (Professional) (Ví dụ về Luật sư Ly hôn).
+* Học cách viết tiêu đề từ các tạp chí như AARP (ví dụ: "Sáu thói quen xấu thực sự tốt cho sức khỏe").
+* Quảng cáo kiểu "Tin nóng" (Breaking News) / "Tiết lộ" (Revealed) (Ví dụ: "Chuyên gia Marketing Phá vỡ Sự im lặng").
+
+## 🛠️ Frameworks & Strategies
+* **Mô hình Kinh tế học Đơn vị (Unit Economics Framework):**
+    1.  Theo dõi CPL (Cost per Lead - Chi phí mỗi Lead).
+    2.  Theo dõi CPA (Cost per Acquisition - Chi phí mỗi Khách hàng).
+    3.  Theo dõi LTV (Lifetime Value - Giá trị Vòng đời).
+    4.  Mục tiêu: Đảm bảo LTV > CPA.
+* **Chiến lược Đa dạng hóa Traffic (Traffic Diversification Strategy):**
+    1.  Không bao giờ phụ thuộc vào 1 kênh (ví dụ: thảm họa Google 2016).
+    2.  Bắt đầu với 1 kênh (ví dụ: Google Ads).
+    3.  Tối ưu hóa đến khi có lợi nhuận (ví dụ: ROI 50%).
+    4.  Sử dụng lợi nhuận đó để "xếp chồng" (stack) kênh thứ 2 (ví dụ: Facebook Ads). Lặp lại.
+* **Mô hình 3 Loại Traffic (Three Types Of Traffic):**
+    1.  **Buy Mode (3%):** Đang tìm kiếm. (Kênh: Google Ads, SEO).
+    2.  **Awareness Stage (37%):** Nhận thức vấn đề, không tìm kiếm. (Kênh: FB, IG, YT).
+    3.  **Cold (60%):** Không nhận thức vấn đề. (Kênh: FB, IG, YT).
+* **Mô hình Tác vụ của Phễu (The Funnel Job Framework):**
+    1.  Tác vụ của Ad (Quảng cáo) = Bán cú click.
+    2.  Tác vụ của Opt-in Page = Bán việc đăng ký (lấy email).
+    3.  Tác vụ của Landing Page = Bán bước tiếp theo (ví dụ: cuộc gọi).
+    4.  Tác vụ của Sales Mechanism = Bán hàng.
+* **Các Mẫu Quảng cáo Google (Google Ad Types):**
+    * Sử dụng các đòn bẩy tâm lý: Tò mò, Sốc, Tư lợi, Sợ hãi.
+    * Các mẫu Ad: "If they can, you can too" (Họ làm được, bạn cũng vậy), "Irresistible intrigue" (Tò mò), "Fear mongering" (Gieo rắc sợ hãi), "Breaking news" (Tin nóng), "Myth buster" (Phá vỡ lầm tưởng).
+* **Chiến lược Quảng cáo Facebook (Facebook Ad Strategy):**
+    1.  Mục tiêu là "Quảng cáo Tự nhiên" (Native Advertising).
+    2.  Làm cho quảng cáo trông giống như "Tin tức/Bài báo" (News/Articles) thay vì quảng cáo.
+    3.  Sử dụng các tiêu đề khơi gợi sự tò mò (học từ các tạp chí).
+    4.  Cấu trúc (Anatomy): Intro Text, Ad Image (không nên trông giống Ad), Link Headline (12-18 từ), Description, CTA Button ("Learn More" là tốt nhất).
+
+## 💬 Golden Quotes
+* > "Nhiệm vụ của copywriter không phải là tạo ra ham muốn, mà là điều hướng nó." (Trích Eugene Schwartz)
+* > "Công việc của quảng cáo *không phải* là bán hàng... công việc duy nhất của nó là khiến họ click."
