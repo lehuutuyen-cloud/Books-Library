@@ -27,7 +27,7 @@ Lưu trữ tri thức đọc được, theo 5 bộ lọc cố định trong từ
 
 ## 🧩 Cách sử dụng với AI
 
-- Dùng dự án này như **bộ nhớ dài hạn** khi làm việc với GPT.  
+- Dùng dự án này như **bộ nhớ dài hạn** khi làm việc với AI.  
 - Khi cần trích dẫn, bảo AI truy vấn:  
   > “Tìm trong `core-mindsets` những bài học liên quan đến tư duy hệ thống.”  
 - Có thể thêm metadata trong `index.json` để AI tra cứu nhanh hơn.
