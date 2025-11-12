@@ -1,0 +1,46 @@
+TITLE: $100M Money Models - Chương 6.1 - Ten Years In Ten Minutes
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, business strategy, market takeover, model stages, summary
+---
+
+## 🧠 Core Mindsets
+* **Định nghĩa Money Model:** Money Model là một chuỗi các lời chào hàng được thiết kế để tăng số lượng khách hàng bạn có, số tiền họ trả, và tốc độ họ trả tiền.
+* **Mô hình $100M:** Mô hình $100M Money Model kiếm được nhiều lợi nhuận từ **một** khách hàng hơn chi phí để có và phục vụ **nhiều** khách hàng trong 30 ngày đầu tiên, loại bỏ tiền mặt khỏi yếu tố giới hạn mở rộng quy mô.
+* **Tiêu chuẩn Tối thiểu:** Một Money Model tốt kiếm được nhiều lợi nhuận từ một khách hàng hơn chi phí để có và phục vụ họ trong 30 ngày đầu tiên.
+* **Mục tiêu của tri thức:** Điều tốt nhất một con người có thể làm là giúp một người khác biết nhiều hơn.
+
+## 💡 Counter-intuitive Views
+* **Vị trí của Money Model:** Money Model trả lời câu hỏi "Làm thế nào để tôi khiến họ mua hàng?" sau khi bạn đã xác định được *cái gì để bán* ($100M Offers) và *làm thế nào để tìm người mua* ($100M Leads).
+* **Khách hàng tự mua lại:** Khách hàng bị thu hút bởi Chào hàng Thu hút (ví dụ: Win Your Money Back) đủ điều kiện để nhận lại tiền dưới dạng **tín dụng cửa hàng** (store credit).
+
+## 🎣 Hooks & Angles
+* "Mười năm trong Mười phút" (Ten Years In Ten Minutes).
+* "Đây là danh sách 'ghi chú trên khăn ăn' (back of the napkin) những gì chúng ta đã đề cập và tại sao".
+
+## 🛠️ Frameworks & Strategies
+* **4 Loại Chào hàng Cốt lõi (Tổng hợp):**
+    1. **Attraction Offers:** Thu hút khách hàng bằng cách cung cấp miễn phí hoặc giảm giá.
+    2. **Upsell Offers:** Bất cứ điều gì bạn chào hàng tiếp theo (thường là nhiều hơn, tốt hơn hoặc mới hơn).
+    3. **Downsell Offers:** Chào hàng sau khi khách hàng nói "Không".
+    4. **Continuity Offers:** Cung cấp giá trị liên tục để khách hàng thanh toán liên tục.
+* **Các Chiến lược Chính:**
+    * **Attraction (5 Mô hình):** Win Your Money Back, Giveaways, Decoy Offers, Buy X Get Y Free, Pay Less Now or Pay More Later.
+    * **Upsell (4 Mô hình):** The Classic Upsell, Menu Upsells, Anchor Upsells, Rollover Upsells.
+    * **Downsell (3 Mô hình):** Payment Plan Downsells, Trial With Penalty, Feature Downsells.
+    * **Continuity (3 Mô hình):** Continuity Bonus Offers, Continuity Discount Offers, Waived Fee Offers.
+* **Quá trình Xây dựng Money Model theo Giai đoạn:**
+    1. Có khách hàng một cách đáng tin cậy.
+    2. Đảm bảo họ tự chi trả một cách đáng tin cậy.
+    3. Đảm bảo họ chi trả cho các khách hàng khác một cách đáng tin cậy.
+    4. Bắt đầu tối đa hóa giá trị dài hạn của mỗi khách hàng.
+    5. Chi tiêu quảng cáo nhiều nhất có thể để in tiền.
+
+## 💬 Golden Quotes
+* > "Điều tốt nhất một con người có thể làm là giúp một người khác biết nhiều hơn." - Charlie Munger
+* > "Money Model được thiết kế để tăng số lượng khách hàng bạn có, số tiền họ trả, và tốc độ họ trả tiền."
+* > "Một Money Model tốt kiếm được nhiều lợi nhuận từ một khách hàng hơn chi phí để có và phục vụ họ trong 30 ngày đầu tiên."
+* > "Kiến thức trong những gạch đầu dòng này đã mang lại cho tôi nhiều khách hàng miễn phí và có lợi nhuận hơn mức tôi biết phải làm gì."
