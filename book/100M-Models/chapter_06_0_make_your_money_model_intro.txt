@@ -1,0 +1,37 @@
+TITLE: $100M Money Models - Chương 6 - Make Your Money Model (Giới thiệu)
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, business strategy, market takeover, model stages
+---
+
+## 🧠 Core Mindsets
+* **Mục tiêu cuối cùng:** Không chỉ kiếm tiền, mà là **Tạo một mô hình kiếm tiền có khả năng chiếm lĩnh thị trường**.
+* **Thành công đến từ sự kết hợp:** Money Model là về việc có được **bốn thành phần** (Attraction, Upsell, Downsell, Continuity) và áp dụng **ba chiến lược** cho mỗi thành phần.
+* **Chiến thắng là kiếm tiền từ mỗi người:** Mục tiêu không phải là biến 100% khách hàng tiềm năng thành người mua gói đắt nhất, mà là **biến 100% khách hàng tiềm năng thành người mua một thứ gì đó**.
+* **Định luật 80/20 (Pareto Principle):** Mô hình tối ưu hóa không phải là về việc kiếm tiền tối đa từ một người, mà là về việc kiếm tiền tối đa từ **toàn bộ nhóm khách hàng tiềm năng**.
+
+## 💡 Counter-intuitive Views
+* **"Bán được hàng không phải là mục đích":** Mục đích không phải là chốt sale ngay lập tức, mà là **chuyển đổi** khách hàng thành bước tiếp theo trong Money Model (từ Attraction sang Upsell, từ Upsell sang Downsell, v.v.).
+* **Tự hủy diệt đối thủ:** Mô hình của bạn phải khiến đối thủ cạnh tranh **không thể** tồn tại hoặc không thể sao chép nó một cách có lợi.
+* **Tăng trưởng không cần sạch sẽ:** Khi nhìn lại, quá trình xây dựng Money Model không hề sạch sẽ và hoàn hảo ngay từ đầu, mà là một quá trình tiến hóa từng bước.
+
+## 🎣 Hooks & Angles
+* "Làm thế nào để chiếm lĩnh toàn bộ thị trường của bạn."
+* "Money Model là mô hình sẽ khiến đối thủ của bạn không thể kiếm được lợi nhuận."
+
+## 🛠️ Frameworks & Strategies
+* **Trình tự Xây dựng Money Model 4 Bước:**
+    1. **Stage 1 (Get Cash):** Bắt đầu với Attraction Offers để có khách hàng và trang trải chi phí.
+    2. **Stage 2 (Get More Cash):** Thêm Upsell Offers để tăng lợi nhuận 30 ngày.
+    3. **Stage 3 (Get Even More Cash):** Thêm Downsell Offers để chuyển đổi những người nói "Không".
+    4. **Stage 4 (Get The Most Cash):** Thêm Continuity Offers để tối đa hóa giá trị trọn đời.
+* **Chiến lược Hoàn hảo để Chiếm lĩnh Thị trường:** Xây dựng một mô hình mà bạn sẵn lòng **trả nhiều hơn** để có được khách hàng so với bất kỳ đối thủ nào.
+* **Tư duy Mô hình (100 Ways):** Đó là ít về việc có 100 sản phẩm khác nhau, mà là có 100 cách khác nhau để chào hàng cùng một sản phẩm.
+
+## 💬 Golden Quotes
+* > "Việc tạo ra một Money Model đơn giản là việc xây dựng một mô hình kiếm tiền khiến đối thủ của bạn không thể hoạt động có lợi nhuận."
+* > "Lợi thế duy nhất của bạn là khả năng chi trả nhiều hơn đối thủ để có được khách hàng."
+* > "Đừng cố gắng biến 100% khách hàng tiềm năng thành người mua gói đắt nhất. Hãy biến 100% khách hàng tiềm năng thành người mua một thứ gì đó."
