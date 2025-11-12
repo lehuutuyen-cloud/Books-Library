@@ -1,0 +1,49 @@
+TITLE: Sell Like Crazy - PHASE 3 - Capture Leads And Get Contact Details
+BOOK: Sell Like Crazy
+AUTHOR: Sabri Suby
+URL: [Link sách/Nguồn]
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-12
+TAGS: Sabri Suby, marketing, lead generation, opt-in page, fascinations, copywriting, booknote, sell like crazy
+---
+
+## 🧠 Core Mindsets
+* Mục đích duy nhất (single purpose) của trang opt-in là để lấy thông tin liên hệ. Nó *không* phải để bán hàng.
+* Việc trao đổi thông tin liên hệ (Tên, Email) để lấy HVCO là "giao dịch đầu tiên" (very first transaction) giữa bạn và khách hàng tiềm năng. Đơn vị tiền tệ là thông tin của họ.
+* Bạn phải "làm họ kinh ngạc" (wow them) ngay tại giao dịch đầu tiên này. Thông tin miễn phí phải có chất lượng cao đến mức người ta sẵn sàng trả tiền cho nó.
+* "Cho xem, đừng chỉ nói" (Show, Don’t Tell): Luôn sử dụng hình ảnh trực quan (visual representation) (ví dụ: mock-up bìa sách 3D) của HVCO để tăng giá trị cảm nhận.
+* Bạn càng yêu cầu ít thông tin, tỷ lệ chuyển đổi càng cao. Chỉ nên thu thập Tên (Name) và Email.
+* Người lướt web về cơ bản là những "thây ma mộng du" (sleepwalking zombies). Bản sao (copy) của bạn phải giống như một tia sét đánh thức họ dậy.
+
+## 💡 Counter-intuitive Views
+* 99% doanh nghiệp làm sai điều này. Họ gửi traffic đến một trang chủ (homepage) hoặc trang bán hàng (sales page) – một "cuộc tấn công toàn diện" (full frontal assault).
+* Đừng bao giờ gửi traffic lạnh (cold traffic) đến thẳng trang bán hàng. Đó là hành động "cầu hôn trong buổi hẹn đầu tiên".
+
+## 🎣 Hooks & Angles
+* "Người lướt web về cơ bản là những thây ma mộng du" (People browsing online are basically sleepwalking zombies).
+* Bạn có đang "cầu hôn trong buổi hẹn đầu tiên" với khách hàng của mình không?.
+* Các công thức "mê hoặc" (Fascination bullet formulas) để khơi gợi sự tò mò (ví dụ: "Bạn cần X, phải không? Sai!", "Điều bạn không bao giờ nên nói với...").
+
+## 🛠️ Frameworks & Strategies
+* **Mô hình "Trang Opt-In Sát thủ" (Killer Opt-In Page Framework):**
+    1.  **A headline that grabs your reader by the throat** (Một tiêu đề tóm lấy cổ họng người đọc).
+    2.  **A subheadline that restates your offer** (Một tiêu đề phụ nhắc lại lời đề nghị).
+    3.  **Ultra-compelling fascination bullets** (Các gạch đầu dòng "mê hoặc" siêu hấp dẫn).
+    4.  **A visual representation of what they’re getting** (Một hình ảnh trực quan về thứ họ sắp nhận được).
+    5.  **A basic form...** (Một biểu mẫu cơ bản để nhập Tên và Email).
+* **Các Công thức viết Bullet "Mê hoặc" (Fascination Bullet Copy Formulas):**
+    * **How to X without Y:** "Làm thế nào để có cơ bụng 6 múi mà không cần gập bụng" (How to get washboard abs without doing a single sit-up).
+    * **You need X, right? Wrong!:** "Uống 3 lít nước mỗi ngày là tốt, phải không? SAI!" (Drinking 3 litres of water a day is healthy, right? WRONG!).
+    * **X ways to Y:** "5 cách để gặp phụ nữ độc thân ở Melbourne" (Five ways to meet single women in Melbourne).
+    * **Where to find Y:** "Nơi tìm thấy những người mua hàng 'đói khát' nhất trên mạng" (Where to find the most ravenous hyperactive buyers online).
+    * **How to eliminate X:** "Cách loại bỏ cơn đau khớp mãi mãi" (How to stop joint pain forever).
+    * **What you should never...:** "Điều bạn không bao giờ nên nói với một phụ nữ trong buổi hẹn đầu tiên" (What you should never say to a woman on your first date).
+    * **Say goodbye to X [frustration]:** "Nói tạm biệt với việc đếm calo" (Say goodbye to calorie counting).
+    * **The truth about Y:** "Sự thật bẩn thỉu về dầu cá được tiết lộ" (The dirty truth about fish oil revealed).
+    * **Have you been doing X wrong?** (Bạn có đang luộc trứng sai nồi không?).
+* **Chiến lược Trang Cảm ơn (Thank You Page Strategy):**
+    1.  Sau khi khách hàng opt-in, tự động chuyển hướng (redirect) họ đến Trang Cảm ơn (Thank you page).
+    2.  Sử dụng trang này như một Landing Page để trình bày "The Godfather Offer" (Lời chào hàng Bố già). (Đây là cách để bắt 3% người mua ngay lập tức).
+
+## 💬 Golden Quotes
+* > "Nếu họ đang cho đi nội dung giá trị như vậy miễn phí, hãy tưởng tượng sản phẩm và dịch vụ trả phí của họ sẽ như thế nào!"
