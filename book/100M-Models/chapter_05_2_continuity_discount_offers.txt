@@ -1,0 +1,41 @@
+TITLE: $100M Money Models - Chương 5.2 - Continuity Discount Offers
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Continuity Offers, recurring revenue, cash flow optimization
+---
+
+## 🧠 Core Mindsets
+* **Tư duy Cốt lõi:** "Mua X tháng, nhận Y tháng miễn phí" trong bối cảnh định kỳ. Bạn cho đi sản phẩm hoặc dịch vụ miễn phí để đổi lấy cam kết mua nhiều sản phẩm/dịch vụ hơn theo thời gian.
+* **Thành công nhờ sự kiên trì:** Sức mạnh của mô hình này đến từ sự đơn giản và khả năng dễ dàng chốt sale.
+* **Tư duy Biên lợi nhuận:** Việc chuyển từ thanh toán hàng tháng sang thanh toán 4 tuần một lần (weekly/bi-weekly) sẽ cho bạn thêm **chu kỳ thanh toán thứ 13** mỗi năm, tăng doanh thu hàng năm lên 8.3%.
+* **Quản lý Hủy bỏ:** Hãy xác định chính sách hủy bỏ trước, lý tưởng là đặt phí hủy bằng với khoản giảm giá khách hàng đã nhận khi cam kết.
+
+## 💡 Counter-intuitive Views
+* **Tiền trong "Rác":** Mô hình thành công bằng cách **trả trước (fronted)** một năm dịch vụ miễn phí để đổi lấy hợp đồng 5 năm trả phí.
+* **Đừng ăn vào kỳ hạn, hãy kéo dài kỳ hạn:** Khi cho miễn phí, hãy *kéo dài* tổng kỳ hạn hợp đồng (ví dụ: trả 12 tháng, được 15 tháng) thay vì chỉ giảm số tháng phải trả.
+* **3% Doanh thu từ 5 từ:** Bạn có thể tăng doanh thu lên 3% bằng cách thêm 5 từ: "Yes, it's $X plus a **3% processing fee**." (3% thêm vào doanh thu sẽ tăng 30% lợi nhuận ròng đối với doanh nghiệp có biên lợi nhuận 10%).
+* **Downsell theo Churn:** Khách hàng có thể "kiếm" được giảm giá trọn đời (lifetime discount) nếu họ vượt qua **tháng có tỷ lệ hủy cao nhất** của bạn.
+
+## 🎣 Hooks & Angles
+* **Hook Cốt lõi:** "Nếu bạn đăng ký hôm nay, bạn sẽ nhận được X thời gian miễn phí."
+* **Tái cấu trúc Tiền mặt:** "Nó có giá $X, cộng thêm 3% phí xử lý.".
+* **Giảm thiểu Rủi ro Thẻ:** "Bạn có muốn tiết kiệm phí xử lý 3% không? ... Tuyệt vời, hãy cung cấp cho chúng tôi một hình thức thanh toán thứ hai để phòng trường hợp có vấn đề xảy ra với hình thức thanh toán đầu tiên."
+
+## 🛠️ Frameworks & Strategies
+* **4 Cách Áp dụng Chiết khấu:**
+    1. **Up Front (Trả trước):** Áp dụng thời gian miễn phí ngay lập tức (phù hợp với ngành có khả năng thực thi hợp đồng).
+    2. **At The End (Trả sau):** Khách hàng trả tiền đầy đủ, và nhận thời gian miễn phí vào cuối hợp đồng (họ phải *kiếm* được thời gian miễn phí đó).
+    3. **Spread Over Time (Trải đều):** Chia tổng chiết khấu cho tổng kỳ hạn để giảm giá hàng tháng (ví dụ: giảm $50/tháng cho cam kết 12 tháng).
+    4. **After the First 1-2 Payments (Sau 1-2 lần trả):** Thu phí trả trước (phí kích hoạt/tháng đầu tiên + tháng cuối) để trang trải chi phí quảng cáo và đảm bảo phương thức thanh toán hợp lệ.
+* **Chiến lược 2 Hình thức Thanh toán (2 Forms of Payment):** Giảm phí xử lý (3%) nếu khách hàng cung cấp hình thức thanh toán thứ hai.
+* **Phỏng vấn Hủy bỏ (Exit Interview):** Khi khách hàng muốn hủy, đề nghị "miễn phí phí hủy" nếu họ đồng ý tham gia phỏng vấn. Điều này giúp bạn cứu 1/3 khách hàng và thu thập phản hồi giá trị.
+* **Phí Hủy (Cancellation Fee):** Đặt phí hủy bằng với tổng số tiền chiết khấu khách hàng đã nhận khi cam kết.
+
+## 💬 Golden Quotes
+* > "Bạn có thể xén lông cừu suốt đời, nhưng bạn chỉ có thể lột da nó một lần."
+* > "Phần tuyệt vời nhất là bạn không phải làm thêm bất kỳ công việc nào. Chỉ cần thay đổi vài từ."
+* > "Sự khác biệt 8.3% (13 chu kỳ 4 tuần/năm) này đã thực sự mang lại cho tôi hàng triệu lợi nhuận thuần túy. Vì vậy, vâng, hãy làm đi."
+* > "Doanh nghiệp nhỏ không trở nên giàu có bằng cách làm khó khách hàng."
