@@ -1,0 +1,37 @@
+TITLE: The One Thing - Chương 14 - SỐNG THEO ƯU TIÊN
+BOOK: The One Thing (Điều ý nghĩa nhất cuộc đời)
+AUTHOR: Gary Keller & Jay Papasan
+URL: lehuutuyen.com
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-12
+TAGS: Gary Keller, Jay Papasan, The One Thing, booknote, strategy, prioritization, goal-setting
+---
+
+## 🧠 Core Mindsets
+* [cite_start]**Ưu tiên** (Priority) là yếu tố thứ hai trong công thức thành công, giúp bạn biết phải làm gì để đạt được mục đích [cite: 1730-1731].
+* **Ưu tiên** là **Điều quan trọng nhỏ nhất** (The Small One Thing). [cite_start]Nó là hành động cụ thể bạn cần làm *ngay bây giờ* để khởi động chuỗi domino [cite: 1756-1757].
+* [cite_start]Khi có mục đích sống, việc sống theo ưu tiên là một lựa chọn ưu việt, vì bạn "nên làm" điều đưa bạn đến nơi bạn phải đi [cite: 1734-1735].
+* [cite_start]Mục tiêu và ưu tiên có liên hệ tương quan: chúng phù hợp trong những khoảnh khắc cuộc sống mà chúng ta hành động [cite: 1742-1744].
+
+## 💡 Counter-intuitive Views
+* **Lời dối trá:** Bạn có nhiều ưu tiên (*priorities*).
+* **Sự thật:** Ban đầu, từ *priority* (ưu tiên) chỉ có dạng số ít, có nghĩa là **điều quan trọng nhất**. [cite_start]Khi nó chuyển sang số nhiều, nó đã tạo ra ảo tưởng rằng ta có thể làm nhiều việc quan trọng cùng lúc [cite: 1738-1741].
+* [cite_start]**Ảo tưởng Hoạch định (Planning Fallacy):** Con người có xu hướng quá lạc quan về những gì họ có thể làm và không nghĩ đến quá trình cần thiết để đạt được kết quả [cite: 1764-1766].
+* [cite_start]**Hội chứng Suy giảm Hypebol (Hyperbolic Discounting):** Phần thưởng càng xa, nó càng tạo ra ít động lực tức thời khiến người nhận mong muốn đạt được nó (ví dụ: chọn 100 đô la hôm nay thay vì 200 đô la sau 1 năm) [cite: 1746-1750].
+
+## 🎣 Hooks & Angles
+* **Hook đối thoại (Dialogue Hook):** Cuộc gặp gỡ giữa Alice với Cheshire Cat: "Tôi không quan tâm đến đích đến,” Alice nói. [cite_start]“Thế thì đường đi có gì quan trọng,” Cat nói [cite: 1727-1728].
+* [cite_start]**Case Study (Hình dung):** Những sinh viên hình dung ra *quá trình* (các buổi học) đạt điểm A, có kết quả tốt hơn so với những người chỉ hình dung ra *kết quả* (điểm A) [cite: 1762-1763].
+* [cite_start]**Data Hook:** Những người viết ra mục tiêu của họ có tiềm năng thực hiện chúng hơn những người không viết ra là **39,5%**[cite: 1772].
+
+## 🛠️ Frameworks & Strategies
+* **Mô hình Lập kế hoạch Ngược (Goal Setting to the Now) - Kết nối Tương lai với Hiện tại:**
+    1.  Bắt đầu với Mục tiêu Lớn (Wildly Important Goal) - Mục tiêu "Một ngày nào đó".
+    2.  Sử dụng Câu hỏi Tập trung để **lập kế hoạch ngược** (từ Tương lai $\rightarrow$ Hiện tại) cho từng mốc thời gian: Mục tiêu 5 năm $\rightarrow$ Mục tiêu 1 năm $\rightarrow$ Mục tiêu Tháng $\rightarrow$ Mục tiêu Tuần $\rightarrow$ **Điều quan trọng nhất HÔM NAY**.
+    3.  [cite_start]Mỗi mục tiêu nhỏ (Hôm nay) phải là quân domino giúp xô đổ mục tiêu lớn hơn (Tuần, Tháng) [cite: 1766-1768].
+* [cite_start]**Quy tắc Hành động:** Viết ra mục tiêu và ưu tiên quan trọng nhất của bạn[cite: 1770, 1773].
+
+## 💬 Golden Quotes
+* > "Điều đó phụ thuộc vào việc cô muốn đến đâu." - [cite_start]Cheshire Cat[cite: 1726].
+* [cite_start]> "Kết nối ngày hôm nay với mọi mục tiêu ngày mai. Đó là điều quan trọng nhất."[cite: 1759].
+* [cite_start]> "Sống có mục đích giúp bạn định hình đích đến. Sống theo ưu tiên giúp bạn biết được phải làm gì để đến đó." [cite: 1729-1730].
