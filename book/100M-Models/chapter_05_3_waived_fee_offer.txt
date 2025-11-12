@@ -1,0 +1,38 @@
+TITLE: $100M Money Models - Chương 5.3 - Waived Fee Offer
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Continuity Offers, waived fee, loss aversion
+---
+
+## 🧠 Core Mindsets
+* **Cốt lõi:** Khách hàng sẽ ở lại lâu hơn nếu **chi phí rời đi cao hơn chi phí ở lại**.
+* **Mục tiêu:** Sử dụng phí thiết lập (setup fee) làm đòn bẩy để chuyển đổi khách hàng từ gói linh hoạt (tháng-tháng) sang gói cam kết (ví dụ: 12 tháng).
+* **Công bằng:** Phí bị miễn (waived fee) không giữ mãi mãi. Khách hàng đã hoàn thành cam kết sẽ được hủy miễn phí.
+* **Đối với dịch vụ dài hạn:** Mô hình này hiệu quả với các dịch vụ cần thời gian dài để thấy kết quả (ví dụ: SEO, Đầu tư) vì nó giữ chân khách hàng khi họ dao động về mặt cảm xúc.
+
+## 💡 Counter-intuitive Views
+* **Sử dụng Phạt để Bán Cam kết:** Phí thiết lập (setup fee) được làm cho *rất lớn* (3-5x tỷ lệ hàng tháng) để người mua cam kết vào hợp đồng dài hạn nhằm *tránh* trả phí đó.
+* **Ngăn chặn Hủy bỏ:** Chi phí rời đi lớn hơn chi phí ở lại sẽ khiến lý do ban đầu của việc hủy bỏ (ví dụ: cảm xúc) co lại so với giá trị của việc tránh phí.
+* **Kiểm soát chất lượng:** Nếu hơn 5% khách hàng muốn hủy sớm, vấn đề nằm ở *sản phẩm* chứ không phải ở *giá*.
+* **Khuyến khích tâm lý tiêu cực:** Có thể tạo động lực cho khách hàng bằng cách thông báo phí hủy sẽ được quyên góp cho một tổ chức họ *ghét*.
+
+## 🎣 Hooks & Angles
+* **Hook Cốt lõi:** "Bạn có thể đăng ký hàng tháng với một khoản phí thiết lập lớn, hoặc tôi sẽ miễn phí nó nếu bạn cam kết một năm.".
+* **Kịch bản Lý giải Phí:** "Nó tốn tiền để chúng tôi giúp bạn bắt đầu. Nếu bạn chỉ muốn thử nghiệm, bạn tự chịu chi phí đó. Nếu bạn cam kết lâu dài, chúng tôi sẽ chịu chi phí đó cho bạn."
+
+## 🛠️ Frameworks & Strategies
+* **Cấu trúc Waived Fee (2 Tùy chọn):**
+    * **Tùy chọn A (Tháng-Tháng):** Trả phí thiết lập **một lần lớn** (3-5x tỷ lệ hàng tháng) + phí hàng tháng. Hủy bất cứ lúc nào.
+    * **Tùy chọn B (Cam kết):** Miễn phí thiết lập **TOÀN BỘ** nếu cam kết dài hạn (tối thiểu 1 năm). Nếu hủy sớm, phải trả phí đã được miễn.
+* **Tỷ lệ Phí:** Phí thiết lập thường là **3-5 lần** tỷ lệ hàng tháng.
+* **Lựa chọn cho Dòng tiền Upfront:** Nếu cần nhiều tiền mặt ngay lập tức, hãy đặt phí thiết lập nhỏ hơn (1.5-3x tỷ lệ hàng tháng) để khuyến khích nhiều người chọn Tùy chọn A (trả phí thiết lập) hơn.
+* **Loại trừ Phí:** Phí hủy sẽ biến mất sau khi khách hàng hoàn thành cam kết.
+
+## 💬 Golden Quotes
+* > "Bạn có thể đăng ký hàng tháng với một khoản phí thiết lập, hoặc tôi sẽ miễn phí nó nếu bạn cam kết một năm."
+* > "Khách hàng sẽ ở lại lâu hơn nếu chi phí rời đi cao hơn chi phí ở lại."
+* > "Tôi làm cho phí đó rất lớn, nên người mua cam kết để tránh nó."
+* > "Một khi họ vượt qua điểm đó, chi phí hủy cũng tương đương chi phí ở lại. Vì vậy, họ cứ ở lại thôi."
