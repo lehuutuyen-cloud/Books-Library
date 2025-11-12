@@ -1,0 +1,36 @@
+TITLE: $100M Money Models - Chương 5.4 - Continuity Offers Conclusion
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, Continuity Offers, recurring revenue, lifetime value, conclusion
+---
+
+## 🧠 Core Mindsets
+* **Mục tiêu của Continuity:** Cung cấp giá trị liên tục mà khách hàng thanh toán liên tục cho đến khi họ hủy.
+* **Tầm nhìn:** Điều duy nhất tốt hơn việc khiến ai đó mua một lần, là khiến họ mua lại.
+* **Ưu tiên Dòng tiền:** Đặt Continuity Offers ở cuối phễu (sau Attraction, Upsell, Downsell) để đảm bảo có lợi nhuận 30 ngày trước khi tập trung vào doanh thu định kỳ.
+* **Lợi ích kép:** Continuity giúp tăng lợi nhuận trên mỗi khách hàng và cung cấp cho bạn sản phẩm cuối cùng để bán.
+
+## 💡 Counter-intuitive Views
+* **Mặt trái của Attraction Continuity:** Nhiều doanh nghiệp sử dụng Continuity để thu hút khách hàng, nhưng điều này làm giảm lợi nhuận 30 ngày (crashes 30-day profits), gây khó khăn cho quảng cáo.
+* **Sự kết hợp tối ưu:** Bằng cách Upsell một khối lượng lớn thời gian/sản phẩm (ví dụ: mua 5 tháng tặng 1 tháng) sau Downsell, bạn kiếm được nhiều tiền mặt hơn ngay lập tức và tự động chuyển đổi khách hàng sang gói định kỳ.
+* **Phần thưởng > Hình phạt:** Alex Hormozi ưu tiên các mô hình Continuity dựa trên phần thưởng (Bonus và Discount) hơn là hình phạt (Waived Fee).
+
+## 🎣 Hooks & Angles
+* "Điều duy nhất tốt hơn việc khiến ai đó mua một lần, là khiến họ mua lại." (The only thing better than getting someone to buy once, is getting them to buy again).
+
+## 🛠️ Frameworks & Strategies
+* **Trình tự $100M Money Model hoàn chỉnh:** Attraction Offers có lợi nhuận → Upsell Offers → Downsell Offers → Continuity Offers (với Upsell trả trước số lượng lớn).
+* **Chiến lược Tối đa hóa LTV:** Upsell khách hàng một khối lượng lớn thời gian/sản phẩm với chiết khấu, sau đó thiết lập tự động chuyển sang thanh toán tháng-tháng sau khi khối lượng đó được sử dụng hết.
+* **3 Loại Continuity Offers Chính:**
+    1. Continuity Bonus Offers.
+    2. Continuity Discount Offers.
+    3. Waived Fee Offer (dùng cho các cam kết hợp đồng truyền thống).
+* **Giai đoạn tiếp theo:** Sau Continuity, Money Model chuyển sang giai đoạn cuối cùng là Kết hợp tất cả để "Tạo Mô hình Tiền tệ của bạn" (Make Your Money Model).
+
+## 💬 Golden Quotes
+* > "Điều duy nhất tốt hơn việc khiến ai đó mua một lần, là khiến họ mua lại."
+* > "Continuity Offers cung cấp giá trị liên tục mà khách hàng thanh toán liên tục cho đến khi họ hủy."
+* > "Bằng cách này, tôi kiếm được nhiều tiền mặt hơn và có được lợi ích tiền mặt định kỳ của các khách hàng liên tục khác."
