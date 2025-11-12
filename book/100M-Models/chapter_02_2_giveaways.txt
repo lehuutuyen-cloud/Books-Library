@@ -1,0 +1,53 @@
+TITLE: $100M Money Models - Chương 2.2 - Giveaways
+BOOK: $100M Money Models
+AUTHOR: Alex Hormozi
+URL: [sach-100m-money-models]
+TYPE: BookNoteChapter
+LAST_UPDATED: [2025-11-12]
+TAGS: Alex Hormozi, Money Models, booknote, $100M Money Models, attraction offers, giveaways
+---
+
+## 🧠 Core Mindsets
+* **Tư duy cốt lõi:** "Nhiều người sẽ tham gia... nhiều người sẽ thắng." [cite_start]Đây chính là cú twist. [cite: 763]
+* [cite_start]**Giveaway = Cỗ máy tạo lead + bán hàng:** Mục tiêu thực sự không phải là tìm một người chiến thắng, mà là tạo ra một danh sách lớn những người *quan tâm* đến sản phẩm của bạn, và sau đó bán hàng cho *tất cả* họ. [cite: 796, 798, 799]
+* [cite_start]**Sức mạnh của việc "Thắng một phần":** Thay vì nói với những người còn lại là "Bạn thua rồi", bạn nói "Bạn đã thắng một 'học bổng bán phần'!"[cite: 779, 781]. [cite_start]Khách hàng cảm thấy *vui sướng* vì "thắng" được một thứ gì đó, ngay cả khi đó thực chất là một lời chào hàng giảm giá. [cite: 785]
+* [cite_start]**Lý do nó bị quản lý chặt:** Các chương trình rút thăm trúng thưởng (sweepstakes) và quà tặng (giveaways) bị pháp luật quản lý rất chặt chẽ chính vì chúng *cực kỳ hiệu quả*. [cite: 768, 769]
+* [cite_start]**Nguyên tắc cơ bản:** Mọi người tham gia giveaway đều đã thể hiện sự quan tâm đến sản phẩm của bạn. [cite: 852] [cite_start]Nếu họ đã quan tâm, bạn *phải* chào hàng cho họ. [cite: 853]
+
+## 💡 Counter-intuitive Views
+* [cite_start]**Giải thưởng phải "Đủ Lớn":** Nếu giveaway của bạn không hiệu quả, lý do là vì giải thưởng của bạn không đủ "lớn" (grand). [cite: 874, 876, 880] Đừng đưa ra một giải thưởng yếu ớt.
+* [cite_start]**Gấp đôi giải thưởng = Gấp đôi (hoặc nhiều hơn) số lượng Lead:** Thay vì chỉ tặng 1 giải, hãy tặng 2. Một cho người chiến thắng, và một cho *người đã giới thiệu* người chiến thắng đó. [cite: 882, 884]
+* [cite_start]**Tâm lý "Refer a Winner":** Chiến lược "Giới thiệu người thắng, bạn cũng thắng" khuyến khích mọi người giới thiệu những lead *chất lượng nhất* (những người họ nghĩ có thể thắng), chứ không phải giới thiệu spam. [cite: 887, 906]
+* [cite_start]**Giá trị của câu hỏi "Tại sao?":** Việc yêu cầu người tham gia trả lời các câu hỏi như "Tại sao chúng tôi nên chọn bạn?" [cite: 777] [cite_start]không chỉ để chọn người thắng, mà còn để thu thập "đạn dược" (lý do mua hàng) cho cuộc gọi bán hàng sau này. [cite: 871]
+
+## 🎣 Hooks & Angles
+* [cite_start]"Nhiều người sẽ tham gia... nhiều người sẽ thắng." [cite: 763]
+* [cite_start]"Giành học bổng toàn phần cho chương trình của chúng tôi." [cite: 777]
+* [cite_start]"Tin tốt! Bạn đã giành được một 'học bổng bán phần'!" [cite: 779]
+* "Giới thiệu một người chiến thắng và bạn cũng thắng." (Refer a Winner and You Win Too) [cite_start][cite: 891]
+* "Nói cách khác, nếu họ thắng, bạn thắng." (Aka if they win, you win) [cite_start][cite: 896]
+* [cite_start]"Hãy tưởng tượng bạn giới thiệu tất cả bạn bè của mình tham gia Facebook trước khi nó bùng nổ." [cite: 902]
+
+## 🛠️ Frameworks & Strategies
+* [cite_start]**Mô hình Giveaway "Học bổng" (3 Bước):** [cite: 798]
+    1.  [cite_start]**Bước 1 (Thu hút):** Quảng cáo một "Giải thưởng Lớn" (Grand Prize) miễn phí, chính là sản phẩm cốt lõi của bạn với giá trị cao nhất (ví dụ: "Học bổng toàn phần \$5,000"). [cite: 802, 809, 810] [cite_start]Yêu cầu người tham gia cung cấp thông tin liên hệ và trả lời các câu hỏi sàng lọc (ví dụ: "Tại sao bạn xứng đáng?"). [cite: 804, 822]
+    2.  [cite_start]**Bước 2 (Công bố):** Chọn *một* người chiến thắng Giải Lớn và công bố rầm rộ. [cite: 839]
+    3.  [cite_start]**Bước 3 (Chuyển đổi):** Liên hệ với *tất cả những người còn lại* (những người "thua cuộc") và thông báo rằng họ đã "thắng" một "Giải thưởng khuyến khích" (ví dụ: "Học bổng bán phần"[cite: 781], "Voucher \$300", v.v.). [cite_start]Đây chính là lời chào hàng giảm giá của bạn. [cite: 799, 840, 842]
+* **Chiến lược "Refer a Winner, You Win Too":**
+    1.  [cite_start]Tạo 2 Giải thưởng Lớn. [cite: 882]
+    2.  [cite_start]Công bố: Một giải cho người chiến thắng, và một giải cho người đã *giới thiệu* họ. [cite: 884]
+    3.  [cite_start]Điều này tạo ra động lực giới thiệu lan truyền (viral) và nâng cao chất lượng lead. [cite: 886]
+* **Chiến lược "Neo giá" trong Giveaway:**
+    1.  [cite_start]Luôn neo giá trị (Value) của Giải Lớn (ví dụ: "Giá trị \$5,000"). [cite: 810]
+    2.  [cite_start]Chào hàng "Giải khuyến khích" (giá bán lẻ thực tế, ví dụ: \$2,000) với một mức giảm giá (ví dụ: còn \$1,800). [cite: 812, 847, 849]
+    3.  [cite_start]Cách diễn đạt: "Bạn không thắng giải \$5,000, nhưng bạn được trao cơ hội nhận giá trị \$5,000 đó chỉ với \$1,800!" [cite: 850, 851] [cite_start]Điều này biến một khoản giảm giá 10% (so với giá bán lẻ) thành một khoản giảm giá 64% (so với giá trị neo). [cite: 851]
+* **Chiến lược 2 Lần Khẩn cấp (Urgency):**
+    1.  [cite_start]**Khẩn cấp #1 (Tham gia):** Đặt thời hạn để tham gia giveaway (ví dụ: 3-7 ngày). [cite: 806, 827, 828]
+    2.  [cite_start]**Khẩn cấp #2 (Nhận giải):** Đặt thời hạn để những người "thắng giải khuyến khích" nhận ưu đãi của họ (ví dụ: 7 ngày). [cite: 844]
+
+## 💬 Golden Quotes
+* [cite_start]"Disclaimer: Sweepstakes và giveaways bị quản lý rất chặt. Lý do chính: chúng cực kỳ hiệu quả." [cite: 768]
+* [cite_start]"Chúng tôi trao 'học bổng bán phần'." [cite: 779]
+* [cite_start]"Khi tôi nói chuyện với họ, họ rất vui mừng. Hầu hết họ tham gia chương trình của chúng tôi ngay tại chỗ." [cite: 785]
+* [cite_start]"Nếu Giveaway của bạn không hiệu quả, điều đó có nghĩa là Giải thưởng Lớn của bạn chưa đủ 'Lớn'." [cite: 874, 880]
+* [cite_start]"Hãy nhớ rằng, tất cả những người tham gia Giveaway đều thể hiện sự quan tâm đến sản phẩm của bạn. Và nếu ai đó thể hiện sự quan tâm đến thứ bạn cung cấp... hãy chào hàng cho họ." [cite: 852, 853]
