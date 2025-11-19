@@ -1,0 +1,42 @@
+TITLE: The Road Less Stupid - Chương 17 - Quy Trình 8 Bước
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-20
+TAGS: Keith J. Cunningham, Business, Systems, Automation, Delegation, Leadership, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+* **Kiểm soát Quy trình, đừng kiểm soát Con người:** Nhà quản lý tồi cố gắng kiểm soát hành vi của từng nhân viên (vi mô). Nhà quản lý giỏi kiểm soát *đầu ra* và *quy trình* thông qua các báo cáo và tiêu chuẩn. Quy trình 8 Bước giúp bạn rũ bỏ gánh nặng "trông trẻ" để tập trung lãnh đạo.
+* **Nguyên tắc "Quyền sở hữu" (The IKEA Effect):** "Nếu họ tạo ra nó, họ sẽ làm chủ nó". Nếu bạn tự lập kế hoạch rồi áp xuống, đó là kế hoạch của bạn, nhân viên chỉ là người làm thuê. Nếu bạn để họ tự vẽ ra con đường (dựa trên mục tiêu bạn đưa ra), họ sẽ sống chết để bảo vệ kế hoạch đó.
+* **Bảng điểm > Câu chuyện:** Nếu không có bảng báo cáo (Dashboard/Scorecard), tất cả những gì bạn nhận được chỉ là những "câu chuyện" (lời giải thích, biện hộ). Bảng điểm cho biết sự thật trần trụi, không cảm xúc. "Có những hy vọng và có những thực tế. Khi chúng mâu thuẫn, thực tế luôn thắng."
+
+## 💡 Counter-intuitive Views
+* **Đừng chỉ đạo "Làm thế nào" (How):** Sai lầm lớn nhất của sếp là làm thay việc của nhân viên. Nhiệm vụ của bạn chỉ là chốt 2 thứ: (1) Kết quả cần đạt là gì? và (2) Trở ngại lớn nhất là gì? Phần còn lại (Lập kế hoạch, Quy trình, Công cụ) phải để nhân viên tự làm. Áp đặt cách làm từ trên xuống sẽ giết chết sự sáng tạo và tinh thần trách nhiệm.
+* **Muốn tốt nhất thì phải "Khó khăn":** Đừng cố tạo ra môi trường dễ dãi để lấy lòng nhân viên. Những người giỏi nhất (A-Players) thích sự khó khăn và thách thức. "Nếu muốn nhiều nhất (số lượng), hãy dễ dàng. Nếu muốn tốt nhất (chất lượng), hãy khó khăn".
+
+## 🎣 Hooks & Angles
+* **Mồi câu (Hook):** "Tại sao kế hoạch kinh doanh hoàn hảo của bạn lại bị nhân viên vứt vào sọt rác? (Bí mật về tâm lý học hành vi: 'Nếu họ không tạo ra nó, họ sẽ không làm chủ nó')".
+* **Góc tiếp cận (Angle):** "Bạn đang làm 'Bảo mẫu' hay làm 'CEO'? Dấu hiệu nhận biết là bạn đang kiểm soát con người hay kiểm soát quy trình".
+* **Tiêu đề:** "Quy trình 8 Bước: Cách duy nhất để 'buông' mà không 'toang'".
+
+## 🛠️ Frameworks & Strategies
+* **Mô hình Phân quyền "Cái gì - Thế nào" (The What-How Delegation Model):**
+    * **Vai trò của Sếp (The What):**
+        1.  Xác định Kết quả/Tiêu chuẩn (Điểm B).
+        2.  Xác định Trở ngại/Khoảng cách (Tại sao chưa đến B?).
+    * **Vai trò của Team (The How):**
+        3.  Lập Kế hoạch/Chiến lược.
+        4.  Xây dựng Bộ máy/Quy trình.
+        5.  Xác định Nhân sự (A-Players).
+        6.  Xác định Tác nhân trọng yếu (Critical Drivers).
+        7.  Thiết kế Bảng điểm (Dashboards).
+    * **Vai trò của Sếp (Quay lại):**
+        8.  Huấn luyện & Hệ quả (Coaching & Consequences).
+
+## 💬 Golden Quotes
+* > "Nếu không có bảng báo cáo tổng quan, bạn sẽ có một câu chuyện. Bảng báo cáo tổng quan cho bạn biết những gì bạn cần biết, chứ không phải những gì bạn muốn tin."
+* > "Nếu họ tạo ra nó, họ sẽ làm chủ nó."
+* > "Có những hy vọng và có những thực tế. Khi chúng mâu thuẫn nhau, thực tế luôn thắng."
+* > "Nếu muốn nhiều nhất, hãy dễ dàng. Nếu muốn tốt nhất, hãy khó khăn."
