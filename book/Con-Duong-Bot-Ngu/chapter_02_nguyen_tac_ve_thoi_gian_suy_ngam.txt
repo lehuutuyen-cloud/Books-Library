@@ -1,0 +1,30 @@
+TITLE: The Road Less Stupid - Chương 2 - Nguyên Tắc Về Thời Gian Suy Ngẫm
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-19
+TAGS: Keith J. Cunningham, Business, Thinking Time, Practice, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+* **Kinh doanh không phải bẩm sinh:** Không ai sinh ra đã là chủ doanh nghiệp giỏi. Họ trở nên xuất sắc nhờ làm việc chăm chỉ, luyện tập, học hỏi, và quan trọng nhất là *suy ngẫm* để sửa chữa.
+* **Luyện tập tạo ra sự Bền vững (Permanence), không phải Hoàn hảo:** Nếu bạn luyện tập những điều sai trái, bạn sẽ trở nên "xuất sắc" trong việc làm sai. Bạn cần một huấn luyện viên để soi chiếu trước khi luyện tập.
+* **Chất lượng cuộc sống = Chất lượng lựa chọn:** Muốn cải thiện cuộc sống hay doanh nghiệp, bạn không cần làm nhiều hơn, bạn cần đưa ra những lựa chọn tốt hơn.
+
+## 💡 Counter-intuitive Views
+* **"Thử nghiệm và Sai lầm" là chiến lược của kẻ ngốc:** Đừng cố học bằng cách tự mình vấp ngã. Đó là cách học đau đớn, tốn kém và chậm chạp nhất. Hãy học từ sai lầm của người khác hoặc suy tính kỹ trước khi hành động.
+* **Nỗ lực không bù đắp được định hướng sai:** Không có gì tệ hại hơn việc "hăm hở chạy đi sai đường". Tốc độ và sự nhiệt tình trở nên vô nghĩa (thậm chí gây hại) nếu bạn đang đi sai hướng.
+
+## 🎣 Hooks & Angles
+* **Góc tiếp cận (Angle):** "Nếu tôi muốn gọi cho bạn, tôi có thể tìm số trên Google, hoặc tôi có thể quay số ngẫu nhiên với hy vọng một ngày nào đó gặp bạn." -> Ẩn dụ về sự ngớ ngẩn của chiến lược "Thử sai" so với việc "Suy nghĩ/Tìm kiếm".
+* **Hook:** "Tôi không cần phải làm những điều thông minh hơn. Tôi chỉ cần làm ít điều ngu ngốc hơn." (Lấy lại ý từ chương trước nhưng được củng cố ở đây).
+
+## 🛠️ Frameworks & Strategies
+* **Nghi thức "Thời Gian Suy Ngẫm" (Thinking Time Ritual):** Một cấu trúc/quy trình kỷ luật để suy nghĩ, không phải ngồi mơ mộng. Nó là công cụ để giảm thiểu rủi ro và "tiền ngu".
+
+## 💬 Golden Quotes
+* > "Tôi rất coi trọng việc dành thời gian để suy nghĩ, hầu như mỗi ngày, chỉ ngồi và suy nghĩ... Những quyết định của tôi càng ít bốc đồng hơn hầu hết mọi người khác." - Warren Buffett
+* > "Luyện tập không làm nên sự hoàn hảo. Luyện tập làm nên sự bền vững."
+* > "Không có gì tệ hơn hăm hở chạy đi sai đường."
+* > "Nếu bạn muốn làm tốt hơn, bạn phải giỏi hơn."
