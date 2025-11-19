@@ -1,0 +1,36 @@
+TITLE: The Road Less Stupid - Chương 11 - Những Điều Bình Thường Được Thực Hiện Một Cách Nhất Quán Sẽ Tạo Nên Những Kết Quả Phi Thường
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-19
+TAGS: Keith J. Cunningham, Business, Discipline, Consistency, Habits, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+* **Bình thường + Nhất quán = Phi thường:** Không có phép màu. Thành công vĩ đại đến từ việc làm những việc nhàm chán, bình thường (như xem báo cáo tài chính, viết content mỗi ngày) một cách đều đặn, không bỏ sót.
+* **Dân nghiệp dư vs. Chuyên nghiệp:** Dân nghiệp dư làm khi có hứng (cho vui). Dân chuyên nghiệp làm khi cần phải làm, bất kể cảm xúc. Cường độ luyện tập quyết định tốc độ làm chủ kỹ năng.
+* **Thế giới không trả kết quả ngay lập tức:** Thế giới không được thiết kế để phản hồi tức thì. Bạn không béo lên sau 1 cái bánh, không phá sản sau 1 ngày tiêu xài. Vì vậy, đừng mong đợi thành công đến ngay sau 1 tuần nỗ lực. Kỳ vọng sai về thời gian sẽ giết chết giấc mơ.
+
+## 💡 Counter-intuitive Views
+* **Thói quen xấu là bằng chứng của Kỷ luật:** Bạn không hề thiếu kỷ luật hay sự nhất quán. Bạn đang thực hiện những thói quen xấu (như họp hành lan man, trì hoãn) một cách cực kỳ nhất quán và kỷ luật. Vấn đề không phải là *học* cách nhất quán, mà là *chuyển* sự nhất quán đó sang hành động đúng.
+* **Đừng tìm kiếm "Cú đánh lớn" (Big Swing):** Chúng ta thường bị ám ảnh bởi việc tìm kiếm một chiến lược "thay đổi cuộc chơi" ngay lập tức. Đó là tư duy của con bạc. Hãy tìm kiếm sự cải thiện nhỏ (micro-improvements) nhưng diễn ra hàng ngày.
+
+## 🎣 Hooks & Angles
+* **Mồi câu (Hook):** "Tại sao hút một điếu thuốc không làm bạn bị ung thư? (Và tại sao viết một bài blog không làm bạn giàu?)".
+* **Góc tiếp cận (Angle):** "Bạn đang 'luyện tập' sự thất bại mỗi ngày mà không hề hay biết. Đây là cách dừng lại."
+* **Tiêu đề:** "Bí mật của sự phi thường: Nó nhàm chán đến mức bạn không thèm làm".
+
+## 🛠️ Frameworks & Strategies
+* **Chiến lược "Ngừng tìm kiếm phép màu":**
+    * Thay vì hỏi: "Làm sao để sửa cái này ngay lập tức?" (Tư duy mì ăn liền).
+    * Hãy hỏi: "5 việc bình thường nào tôi có thể làm *ngay hôm nay* để cải thiện tình hình?".
+* **Quy trình "Đảo ngược thói quen":**
+    * Bước 1: Xác định 3 thói quen xấu (những việc bình thường bạn đang làm nhất quán để tạo ra kết quả tồi).
+    * Bước 2: Xác định những quyết định khó khăn cần thực hiện để phá vỡ sự "nhất quán" đó.
+
+## 💬 Golden Quotes
+* > "Những điều bình thường được thực hiện một cách nhất quán sẽ tạo nên những kết quả phi thường!"
+* > "Dân nghiệp dư làm mọi thứ cho vui... Và họ thường thất bại!"
+* > "Bạn không thể cố tập thể dục nhiều hơn để bù đắp việc ăn uống tùy tiện được."
+* > "Kỳ vọng sai lầm cùng với khung thời gian phi thực tế sẽ giết chết những giấc mơ."
