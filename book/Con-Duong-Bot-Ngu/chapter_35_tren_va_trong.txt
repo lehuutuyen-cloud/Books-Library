@@ -1,0 +1,44 @@
+TITLE: The Road Less Stupid - Chương 35 - Trên Và Trong
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-20
+TAGS: Keith J. Cunningham, Business, Leadership, Management, Working On vs In, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+
+* **Làm "Trong" là điều bắt buộc:** Đừng để các Guru lừa bạn rằng làm chủ nghĩa là ngồi chơi xơi nước. Tất cả các tỷ phú (trừ khi đã nghỉ hưu) đều làm việc *trong* doanh nghiệp của họ mỗi ngày. Họ họp hành, ra quyết định, tuyển dụng, đàm phán. Đó là làm việc. Đừng xấu hổ vì bạn vẫn phải làm việc.
+* **Người vận hành vs. Chủ doanh nghiệp (Góc nhìn mới):** Vấn đề không phải là bạn làm việc "trong" doanh nghiệp, mà là bạn đang làm *loại việc* gì.
+    * **Người vận hành:** Thay dầu, bơm xe, trả lời inbox (Việc giá trị thấp).
+    * **Chủ doanh nghiệp:** Đọc báo cáo tài chính, Xây dựng văn hóa, Phân bổ nguồn lực (Việc giá trị cao).
+    * *Bài học:* Bạn phải ở "trong" để điều hành, nhưng phải làm những việc của "người đứng trên".
+* **Chủ doanh nghiệp ≠ Nhà đầu tư:** Nếu bạn muốn hoàn toàn không dính dáng gì đến hoạt động (Passive), bạn là Nhà đầu tư, không phải Chủ doanh nghiệp. Lúc đó, bạn phải thuê một CEO xịn để thay bạn làm việc "trong" doanh nghiệp. Không có doanh nghiệp nào tự chạy mà không có người điều hành.
+
+## 💡 Counter-intuitive Views
+
+* **Đừng "Thoát" khỏi doanh nghiệp:** Lời khuyên "Hãy xây dựng doanh nghiệp để nó tự chạy mà không cần bạn" thường dẫn đến sự sụp đổ. Không ai quan tâm đến doanh nghiệp bằng chính người chủ. Ngay cả khi bạn có hệ thống, bạn vẫn cần giám sát hệ thống đó. Sự vắng mặt của người chủ thường là khởi đầu của sự suy thoái.
+* **Kỹ năng nghề không giúp bạn làm chủ:** Bạn không thể trở thành Chủ doanh nghiệp giỏi chỉ bằng cách làm nghề giỏi hơn (thay dầu nhanh hơn). Bạn cần bộ kỹ năng hoàn toàn mới: Đọc hiểu báo cáo tài chính, Tuyển dụng, Lãnh đạo. Nếu không học những thứ này, bạn mãi mãi chỉ là một "người thợ có cửa hàng riêng".
+
+## 🎣 Hooks & Angles
+
+* **Mồi câu 1 (Gây tranh cãi):** "Tại sao Michael Gerber (tác giả E-Myth) đã sai? (Bạn không thể và không nên cố gắng 'thoát khỏi' doanh nghiệp của mình)".
+* **Mồi câu 2 (Thực tế):** "Bạn đang làm CEO hay đang làm Osin cao cấp? (Cách phân biệt giữa 'Làm việc TRONG' kiểu khổ sai và 'Làm việc TRONG' kiểu tỷ phú)".
+* **Mồi câu 3 (Tâm lý):** "Căn bệnh 'Dị ứng công việc': Tại sao khao khát 'không làm gì cả' đang ngăn cản bạn trở nên giàu có".
+* **Góc tiếp cận cho Video Short:** "Bill Gates có làm việc không? Có. Vậy tại sao bạn lại muốn nghỉ hưu sớm? Sự khác biệt nằm ở đây..." (Dẫn vào kỹ năng giá trị cao).
+
+## 🛠️ Frameworks & Strategies
+
+* **Quy trình "Nâng cấp Vai trò" (The Role Upgrade Audit):**
+    1.  **Liệt kê:** Viết ra mọi việc bạn làm trong tuần qua.
+    2.  **Phân loại:** Đánh dấu đâu là việc "Thay dầu" (Việc thợ - Giá trị thấp) và đâu là việc "Điều hành" (Việc chủ - Giá trị cao).
+    3.  **Chuyển giao:** Tìm cách thuê người/dùng công cụ để xử lý việc "Thay dầu".
+    4.  **Lấp đầy:** Dùng thời gian trống để *học* và *làm* các việc "Điều hành" (như đọc báo cáo tài chính, lập kế hoạch).
+
+## 💬 Golden Quotes
+
+* > "Bạn không thể thành công trong kinh doanh nếu chỉ đứng 'trên' doanh nghiệp của bạn. Bạn phải ở 'trong' nó."
+* > "Khoảnh khắc bạn 'buông' doanh nghiệp của bạn, bạn đã chuyển từ vai trò Chủ doanh nghiệp sang Nhà đầu tư."
+* > "Kỹ năng kinh doanh là nền tảng cho sự thành công trong kinh doanh."
+* > "Đừng nhầm lẫn giữa hoạt động và làm việc với năng suất."
