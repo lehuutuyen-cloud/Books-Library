@@ -1,0 +1,35 @@
+TITLE: The Road Less Stupid - Chương 26 - Giữ Cho Các Đai Ốc Luôn Siết Chặt
+BOOK: The Road Less Stupid
+AUTHOR: Keith J. Cunningham
+URL: http://tuyen.biz/con-duong-bot-ngu
+TYPE: BookNoteChapter
+LAST_UPDATED: 2025-11-20
+TAGS: Keith J. Cunningham, Business, Maintenance, Systems, Culture, Integrity, booknote, The Road Less Stupid
+---
+
+## 🧠 Core Mindsets
+* **Sửa chữa vs. Duy trì:** Chúng ta thường bị nghiện cảm giác hưng phấn khi tìm ra và sửa chữa một vấn đề (tâm lý người hùng). Nhưng sự giàu có thực sự đến từ việc nhàm chán: **Duy trì** trạng thái đã sửa chữa đó. Đừng chỉ siết chặt đai ốc, hãy đảm bảo nó không bao giờ bị lỏng ra lần nữa.
+* **Cái giá của Động lượng (Momentum Cost):** "Vấn đề với việc luôn phải làm lại từ đầu là bạn luôn luôn ở vạch xuất phát". Để chiếc vòng quay ngựa gỗ quay từ trạng thái đứng yên tốn rất nhiều sức. Để giữ nó tiếp tục quay chỉ cần những cú đẩy nhẹ. Sự lơ là trong bảo trì sẽ giết chết động lượng và đốt cháy tài nguyên của bạn.
+* **Định nghĩa mới về Chính trực (Integrity):** Trong kinh doanh, chính trực không chỉ là "không nói dối". Chính trực là **làm những gì bạn nói bạn sẽ làm**. Nếu bạn nói sẽ gửi báo cáo vào thứ Sáu mà không gửi, bạn thiếu chính trực, và đai ốc bắt đầu lỏng.
+
+## 💡 Counter-intuitive Views
+* **Hệ thống KHÔNG PHẢI là Chén Thánh:** Rất nhiều người tin rằng "Hệ thống hóa" (Systemize) là giải pháp cho mọi vấn đề nhân sự và vận hành. Sai lầm. Hệ thống tạo ra sự *nhất quán* (mọi người làm giống nhau), nhưng nó không tạo ra sự *xuất sắc* hay *trách nhiệm*. Thậm chí, quá nhiều hệ thống sẽ tạo ra sự quan liêu và giết chết linh hồn doanh nghiệp.
+* **Văn hóa giữ đai ốc chặt, không phải Quy trình:** Thứ duy nhất đảm bảo nhân viên luôn làm đúng ngay cả khi sếp không có mặt không phải là cuốn quy trình dày cộp, mà là **Văn hóa Trách nhiệm** (Accountability Culture) và **Đào tạo liên tục**. Nếu văn hóa tồi, quy trình chỉ là giấy vụn.
+
+## 🎣 Hooks & Angles
+* **Mồi câu 1 (Ẩn dụ):** "Tại sao chiếc xe đua doanh nghiệp của bạn lại bị rụng bánh giữa đường? (Hội chứng 'Người hùng dập lửa' và cái giá của việc lười bảo trì)".
+* **Mồi câu 2 (Gây tranh cãi):** "Dừng ngay việc tôn sùng 'Hệ thống hóa'! (Tại sao McDonald's thành công nhờ hệ thống, còn bạn thì có thể phá sản vì nó)".
+* **Mồi câu 3 (Đánh vào nỗi đau):** "Bạn có đang mắc kẹt trong vòng lặp 'Khởi động lại'? (Tại sao bạn cứ phải xây lại đội ngũ/quy trình mỗi 6 tháng)".
+
+## 🛠️ Frameworks & Strategies
+* **Quy trình "Siết Đai Ốc" (The Lug Nut Protocol):**
+    1.  **Đào tạo (Training):** Đừng chỉ đưa quy trình, hãy dạy họ *tại sao* nó quan trọng.
+    2.  **Đo lường (Measurement):** Kiểm tra đai ốc định kỳ (đừng đợi bánh xe rụng mới kiểm tra).
+    3.  **Trách nhiệm (Accountability):** Ai là người chịu trách nhiệm nếu đai ốc lỏng?
+    4.  **Văn hóa (Culture):** Biến sự "Chính trực" (Làm điều đã nói) thành tiêu chuẩn không thể thương lượng.
+
+## 💬 Golden Quotes
+* > "Vấn đề với việc luôn phải làm lại từ đầu là vì anh luôn luôn làm lại từ đầu."
+* > "Việc mặc định một hệ thống là giải pháp để giữ các đai ốc luôn được siết chặt là một ý tưởng nông cạn nguy hiểm."
+* > "Chính trực nghĩa là làm những gì bạn nói bạn sẽ làm."
+* > "Sự nhất quán đòi hỏi các hệ thống. Sự xuất sắc đòi hỏi văn hóa."
